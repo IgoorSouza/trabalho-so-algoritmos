@@ -312,4 +312,7 @@ function input(texto) {
 > - Caso o algoritmo seja o Round-Robin, o usuário deve informar o valor do quantum de processamento. Dessa forma é passado como parâmetro os processos e o quantum de processamento para a execução.
 
 
-## Tecnologias utilizadas
+## Tecnologias e/ou Linguagens utilizadas
+
+### Javascript
+![Logo Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
