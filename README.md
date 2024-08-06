@@ -90,7 +90,6 @@ console.log(`------ Tempo ${tempo}: ------`);
 
     tempo++;
     console.log();
-  }
 ```
 > <b>Se a quantidade de processos na lista processosTimeLine for maior que 0:</b>
 > - Se o index for igual a 0, será impresso o processo da lista que se encontrará em estado de execução. Mas, caso o index seja igual ou maior que 1, serão impressos os processos que estarão em estado de pronto.
@@ -98,7 +97,7 @@ console.log(`------ Tempo ${tempo}: ------`);
 
 <br>
 
-> <b>E se não houverem mais processos para serem executados, será impresso na tela que não há mais processos para execução.</b>
+> <b>E se não houver mais processos para serem executados, será impresso na tela que não há mais processos para execução.</b>
 
 <br>
 
@@ -191,17 +190,16 @@ const processoEmExecucao = processosTimeline[0];
 
     tempo++;
     console.log();
-  }
 ```
 > <b>Se a quantidade de processos na lista processosTimeLine for maior que 0:</b>
 > - Se o index for igual a 0, será impresso o processo da lista que se encontrará em estado de execução. Mas, caso o index seja igual ou maior que 1, serão impressos os processos que estarão em estado de pronto.
 > - Para o processo que estiver em execução, o tempo de CPU e o temporizador do quantum serão decrementados, confirmando o processamento.
-> - Se o tempo de CPU do processo em execução chegar a 0, ou seja, terminar de executar, o processo será removido da fila de execução e será alterado para o estado de pronto. O temporizador do quantum será reiniciado para o valor inicial.\
+> - Se o tempo de CPU do processo em execução chegar a 0, ou seja, terminar de executar, o processo será removido da fila de execução e será alterado para o estado de pronto. O temporizador do quantum será reiniciado para o valor inicial.
 > - Caso o temporizador do quantum chegue a 0, o processo em execução é movido para o final da fila e o quantum é reiniciado para o valor inicial.
 
 <br>
 
-> <b>E se não houverem mais processos para serem executados, será impresso na tela que não há mais processos para execução.</b>
+> <b>E se não houver mais processos para serem executados, será impresso na tela que não há mais processos para execução.</b>
 
 <br>
 
