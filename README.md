@@ -315,4 +315,4 @@ function input(texto) {
 ## Tecnologias e/ou Linguagens utilizadas
 
 ### Javascript
-![Logo Javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo Javascript" width="10%">
