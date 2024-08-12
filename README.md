@@ -1,13 +1,13 @@
 # Sobre o projeto
-> Status: Finalizado ✔️
+> Status: Finalizado ✔️ <br>
 > Pré-requisitos: node.js
 
 ## Como executar?
-+ 1 Baixe o repositório do GitHub em sua máquina;
-+ 2 Inicie o terminal do computador dentro do repositório do projeto;
-+ 3 Execute o seguinte código para instalar as dependências do projeto:
++ Baixe o repositório do GitHub em sua máquina;
++ Inicie o terminal do computador dentro do repositório do projeto;
++ Execute o seguinte código para instalar as dependências do projeto:
 > npm i
-+ 4 Inicie o projeto executando o seguinte código: 
++ Inicie o projeto executando o seguinte código: 
 > node scr\
 
 ## Objetivo
