@@ -8,7 +8,7 @@
 + Execute o seguinte código para instalar as dependências do projeto:
 > npm i
 + Inicie o projeto executando o seguinte código: 
-> node scr\
+> node src/
 
 ## Objetivo
 + Simular o funcionamento dos algoritmos:
